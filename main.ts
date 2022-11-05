@@ -1,3 +1,4 @@
 function main() {
-  return "";
+  let play = "";
+  return play;
 }
