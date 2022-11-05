@@ -1,1 +1,3 @@
-function play() {}
+function play() {
+  return "";
+}
