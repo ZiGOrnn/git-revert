@@ -1,4 +1,1 @@
-function main() {
-  let play = "";
-  return play;
-}
+function main() {}
